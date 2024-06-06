@@ -1,8 +1,8 @@
 {
 	"NewestVersion": "1.2.0",
-	"KilledFully": false,
+	"KilledFully": true,
 	"ReasonForNewestVersion": "Hello Ron",
-	"ReasonForKill": "Killed by (RON's DAMN STrEAM)",
+	"ReasonForKill": "Killed bcz of Dread_Man99",
 	"ExecutionEnabled": false,
 	"Scripttoexecute": "game.Players.LocalPlayer:Kick('Dread_man99: nice try.')"
 }
