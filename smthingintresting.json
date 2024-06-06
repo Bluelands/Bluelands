@@ -3,6 +3,6 @@
 	"KilledFully": false,
 	"ReasonForNewestVersion": "Hello Ron",
 	"ReasonForKill": "Killed by (RON's DAMN STrEAM)",
-	"ExecutionEnabled": false,
+	"ExecutionEnabled": true,
 	"Scripttoexecute": "game.Players.LocalPlayer:Kick('Dread_man99: nice try.')"
 }
