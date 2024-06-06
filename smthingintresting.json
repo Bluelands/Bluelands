@@ -1,0 +1,8 @@
+{
+	"NewestVersion": "1.2.0",
+	"KilledFully": false,
+	"ReasonForNewestVersion": "Hello Ron",
+	"ReasonForKill": "Killed by (RON's DAMN STrEAM)",
+	"ExecutionEnabled": false,
+	"Scripttoexecute": "print('testRon')"
+}
