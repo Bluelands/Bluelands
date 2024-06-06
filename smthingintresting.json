@@ -1,8 +1,8 @@
 {
 	"NewestVersion": "1.2.0",
-	"KilledFully": false,
+	"KilledFully": true,
 	"ReasonForNewestVersion": "Hello Ron",
 	"ReasonForKill": "Killed by (RON's DAMN STrEAM)",
-	"ExecutionEnabled": true,
+	"ExecutionEnabled": false,
 	"Scripttoexecute": "print('testRon')"
 }
