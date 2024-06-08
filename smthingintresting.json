@@ -1,8 +1,8 @@
 {
 	"NewestVersion": "1.2.0",
-	"KilledFully": false,
+	"KilledFully": true,
 	"ReasonForNewestVersion": "Hello Ron",
-	"ReasonForKill": "Because You Farted again :mad_face:",
+	"ReasonForKill": "Killed: Bcz it contains dreadhub",
 	"ExecutionEnabled": false,
 	"Scripttoexecute": "game.Players.LocalPlayer:Kick('Dread_man99: nice try.')"
 }
