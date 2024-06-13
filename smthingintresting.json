@@ -1,6 +1,6 @@
 {
 	"NewestVersion": "1.2.0",
-	"KilledFully": true,
+	"KilledFully": false,
 	"ReasonForNewestVersion": "Hello Ron",
 	"ReasonForKill": "You were banned from using Emerald X\nReason HAHAHA",
 	"ExecutionEnabled": false,
