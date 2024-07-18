@@ -1,8 +1,0 @@
-{
-	"NewestVersion": "1.2.0",
-	"KilledFully": false,
-	"ReasonForNewestVersion": "Hello Ron",
-	"ReasonForKill": "You were banned from using Emerald X\nReason HAHAHA",
-	"ExecutionEnabled": false,
-	"Scripttoexecute": "game.Players.LocalPlayer:Kick('Dread_man99: nice try.')"
-}
